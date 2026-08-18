@@ -71,14 +71,12 @@
  
 ---
  
-### 📊 Estadísticas
+ <!--### 📊 Estadísticas
  
- <!--<p align="center">
+<p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Cesar-velasquez117&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub"/>
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Cesar-velasquez117&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
 </p>-->
-
----
  
 ### 📫 Contacto
  
